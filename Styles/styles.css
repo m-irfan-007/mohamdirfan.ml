@@ -1,0 +1,44 @@
+h1
+{
+    color: blue;
+}
+a h2
+{
+    color: orangered;
+    text-decoration: none;
+}
+a h2:hover
+{
+    color: green;
+    text-decoration: none;
+}
+.wrench
+{
+    border-radius: 100px;
+    width:  250px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+}
+#black-wrench
+{
+    box-shadow: 5px 10px silver;
+}
+#black-wrench:hover
+{
+    box-shadow: 5px 10px lightseagreen;
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    color: orange;
+    text-decoration: none;
+}
+ul li a:hover 
+{
+    color: pink;
+    text-decoration: none;
+}
